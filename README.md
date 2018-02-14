@@ -36,6 +36,8 @@ Your task is just to try the workflow of doing homeworks:
 ~/MI-AFP/MI-AFP_hw00 (solution)$ git push origin
 ```
 
+If you need, there is also a video with the workflow slowly explained (with subtitles): https://youtu.be/Wl96sF34GbI
+
 ## Notes 
 
  * This homework is optional but highly recommended.

@@ -42,7 +42,7 @@ If you need, there is also a video with the workflow slowly explained (with subt
 
  * This homework is optional but highly recommended.
  * If you encounter some trouble, create an issue in your repository.
- * In case you find abug or have an idea how to improve assignment project, create an issue or PR in this repository.
+ * In case you find a bug or have an idea how to improve the assignment project, create an issue or PR in this repository.
 
 ## License
 

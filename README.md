@@ -20,7 +20,7 @@ Your task is just to try the workflow of doing homeworks:
 10. After finishing all [create Pull Request](https://help.github.com/articles/creating-a-pull-request/) and request a [review](https://help.github.com/articles/about-pull-request-reviews/) from teacher(s) which is/are added to collaborators.
 11. Wait for the review... :coffee:
 
-```
+```console
 ~/MI-AFP $ git clone git@github.com:MyUsername/MI-AFP_hw00.git                            # clone your repo
 ~/MI-AFP $ cd MI-AFP_hw00
 ~/MI-AFP/MI-AFP_hw00 (master)$ git remote add assignment git@github.com:MI-AFP/hw00.git   # repository with hw
@@ -35,8 +35,6 @@ Your task is just to try the workflow of doing homeworks:
 ~/MI-AFP/MI-AFP_hw00 (solution)$ git commit ...
 ~/MI-AFP/MI-AFP_hw00 (solution)$ git push origin
 ```
-
-If you need, there is also a video with the workflow slowly explained (with subtitles): https://youtu.be/Wl96sF34GbI
 
 ## Notes
 

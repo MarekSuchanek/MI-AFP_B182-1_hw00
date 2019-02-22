@@ -9,13 +9,13 @@ module Lib
 
 -- TODO: implement this function (replace undefined)
 add :: Int -> Int -> Int
-add x y = undefined
+add x y = x + y
 
 -- TODO: check what answer is expected in test/Spec.hs
-answer = undefined
+answer = 42
 
 -- TODO: write formula for quadratic function, you will need specify type
-quadratic a b c x = undefined
+quadratic a b c x = a * x ^ 2 + b * x + c
 
 -- Linear is same as quadratic with a=0.0 (partially applied function)
 linear = quadratic 0.0
@@ -23,5 +23,5 @@ linear = quadratic 0.0
 {- TODO: implement factorial with recursion
          (no need to solve negative n now)
 -}
-factorial 0 = undefined
-factorial n = undefined
+factorial 0 = 1
+factorial n = n * factorial (n-1)

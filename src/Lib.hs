@@ -9,10 +9,10 @@ module Lib
 
 -- TODO: implement this function (replace undefined)
 add :: Int -> Int -> Int
-add x y = undefined
+add x y = x + y
 
 -- TODO: check what answer is expected in test/Spec.hs
-answer = undefined
+answer = 42
 
 -- TODO: write formula for quadratic function, you will need specify type
 quadratic a b c x = undefined
